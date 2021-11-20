@@ -17,17 +17,22 @@
     <meta name="title" content="Online - Reverse Shell Generator">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.revshells.com/">
     <meta property="og:title" content="Online - Reverse Shell Generator">
     <meta property="og:description" content="Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode. Great for CTFs.">
     <meta property="og:image"
         content="https://user-images.githubusercontent.com/58673953/111243529-9d646f80-85d7-11eb-986c-9842747dc2e7.png">
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-
+    <meta property="twitter:url" content="https://www.revshells.com/">
     <meta property="twitter:title" content="Online - Reverse Shell Generator">
     <meta property="twitter:description" content="Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode. Great for CTFs.">
     <meta property="twitter:image"
-        content="https://user-images.githubusercontent.com/58673953/111243529-9d646f80-85d7-11eb-986c-9842747dc2e7.png"
+        content="https://user-images.githubusercontent.com/58673953/111243529-9d646f80-85d7-11eb-986c-9842747dc2e7.png">
+
+    <link rel="canonical" href="https://revshells.com" />
+    
+    <!-- GitHub Ribbon -->
     
     <style>
     </style>
